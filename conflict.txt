@@ -1,1 +1,2 @@
 Hello from B1
+Hello from B2
